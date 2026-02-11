@@ -150,31 +150,41 @@ I believe in continuous improvement and hands-on learning. This portfolio is a l
 - Deepening understanding of system design and architecture
 
 ---
-
 ## 📫 Get In Touch
 
 I'm always open to collaboration, learning opportunities, and connecting with fellow developers and tech enthusiasts.
 
-- **GitHub:** [@Mure](https://github.com/Mure)
+[
+
+![GitHub](https://img.shields.io/badge/GitHub-Mure-181717?style=for-the-badge&logo=github)
+
+](https://github.com/Mure)
+[
+
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor_Muregi-0077B5?style=for-the-badge&logo=linkedin)
 
-](https://linkedin.com/in/your-linkedin-username)
+](https://www.linkedin.com/in/victor-muregi)
 [
 
-![Twitter](https://img.shields.io/badge/Twitter-@YourHandle-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-i__am.muregi-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
-](https://twitter.com/your-handle)
+](https://www.instagram.com/i_am.muregi?igsh=MWUycDh6aDgzOTY3MA==)
 [
 
-![Email](https://img.shields.io/badge/Email-your.email@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Facebook](https://img.shields.io/badge/Facebook-Victor_Muregi-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 
-](mailto:your.email@example.com)
+](https://www.facebook.com/profile.php?id=61555801086570)
+[
 
-**Or connect with me on:**
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [linkedin.com/in/your-linkedin-username](https://linkedin.com/in/your-linkedin-username)
-- 🐦 Twitter: [@YourHandle](https://twitter.com/your-handle)
-- 📱 WhatsApp: +254-XXX-XXX-XXX (optional)
+![Email](https://img.shields.io/badge/Email-i.am.muregi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+](mailto:i.am.muregi@gmail.com)
+
+**Or reach out directly:**
+- 📧 Email: i.am.muregi@gmail.com
+- 💼 LinkedIn: [Victor Muregi](https://www.linkedin.com/in/victor-muregi)
+- 📸 Instagram: [@i_am.muregi](https://www.instagram.com/i_am.muregi)
+- 👥 Facebook: [Victor Muregi](https://www.facebook.com/profile.php?id=61555801086570)
 
 ---
 
