@@ -110,22 +110,23 @@ I am a passionate Computer Science diploma student at Kiambu National Polytechni
 ---
 
 ## 📂 Repository Structure
-├── projects/                          # Practical projects and applications
-│   ├── web-development/              # Web design and development projects
-│   ├── programming/                  # Python, Java, C# programs
-│   ├── databases/                    # Database design and SQL projects
-│   ├── ai-projects/                  # Artificial intelligence implementations
-│   ├── networking/                   # Network configuration and protocols
-│   └── graphic-design/               # Visual design work
-│
-├── coursework/                        # Academic assignments and exercises
-│   ├── algorithms-data-structures/   # Algorithm implementations
-│   ├── operating-systems/            # OS labs and system admin tasks
-│   └── computer-architecture/        # Hardware-related projects
-│
-├── certifications/                    # Professional certifications and courses
-└── assets/                           # Images, documents, and resources
----
+
+**Projects Folder**
+- `web-development/` - Web design and development projects
+- `programming/` - Python, Java, C# programs  
+- `databases/` - Database design and SQL projects
+- `ai-projects/` - Artificial intelligence implementations
+- `networking/` - Network configuration and protocols
+- `graphic-design/` - Visual design work
+
+**Coursework Folder**
+- `algorithms-data-structures/` - Algorithm implementations
+- `operating-systems/` - OS labs and system admin tasks
+- `computer-architecture/` - Hardware-related projects
+
+**Other Folders**
+- `certifications/` - Professional certifications and courses
+- `assets/` - Images, documents, and resources       
 
 ## 🚀 Featured Projects
 
@@ -155,13 +156,28 @@ I believe in continuous improvement and hands-on learning. This portfolio is a l
 I'm always open to collaboration, learning opportunities, and connecting with fellow developers and tech enthusiasts.
 
 - **GitHub:** [@Mure](https://github.com/Mure)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor_Muregi-0077B5?style=for-the-badge&logo=linkedin)
+
+](https://linkedin.com/in/your-linkedin-username)
+[
+
+![Twitter](https://img.shields.io/badge/Twitter-@YourHandle-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+
+](https://twitter.com/your-handle)
+[
+
+![Email](https://img.shields.io/badge/Email-your.email@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+](mailto:your.email@example.com)
+
+**Or connect with me on:**
+- 📧 Email: your.email@example.com
+- 💼 LinkedIn: [linkedin.com/in/your-linkedin-username](https://linkedin.com/in/your-linkedin-username)
+- 🐦 Twitter: [@YourHandle](https://twitter.com/your-handle)
+- 📱 WhatsApp: +254-XXX-XXX-XXX (optional)
 
 ---
 
 <div align="center">
 
-**⭐ If you find any of my projects interesting, feel free to star this repository! ⭐**
-
-*Last Updated: February 2026*
-
-</div>
+**⭐ If you find any of my projects interesting, feel free to star this repository
