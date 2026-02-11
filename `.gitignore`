@@ -1,0 +1,102 @@
+Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+Compiled Files
+*.class
+*.pyc
+pycache/
+*.o
+*.exe
+*.dll
+*.so
+Logs and Databases
+*.log
+*.sql
+*.sqlite
+*.db
+Environment Files
+.env
+.env.local
+venv/
+env/
+ENV/
+node_modules/
+Package Manager
+package-lock.json
+*.lock
+yarn.lock
+Build Directories
+build/
+dist/
+out/
+target/
+Temporary Files
+*.tmp
+*.temp
+*.bak
+*.backup
+Private Notes
+PRIVATE_NOTES.md
+TODO_PRIVATE.md
+---
+
+## 📋 BONUS FILE: CONTRIBUTING.md (Optional but Professional!)
+
+**Filename:** `CONTRIBUTING.md`
+
+**Content:**
+```markdown
+# Contributing to My Portfolio
+
+Thank you for your interest in my portfolio! While this is primarily a personal educational portfolio, I welcome feedback and suggestions.
+
+## 🤝 How You Can Help
+
+### Feedback Welcome
+- Spotted a typo or error? Let me know!
+- Have suggestions for improving my projects? I'd love to hear them!
+- See a better way to organize something? Share your thoughts!
+
+### Ways to Contribute
+
+1. **Report Issues**
+   - Use the Issues tab to report bugs or problems
+   - Be specific about what you found
+   - Include screenshots if possible
+
+2. **Suggest Improvements**
+   - Open an issue with your suggestion
+   - Explain why the improvement would be helpful
+   - Feel free to share resources or examples
+
+3. **Share Resources**
+   - Know of good learning resources related to my projects?
+   - Have tips for better documentation?
+   - Share them in the Discussions tab!
+
+## 📧 Contact
+
+For direct feedback or questions:
+- **Email:** i.am.muregi@gmail.com
+- **GitHub Issues:** [Open an issue](https://github.com/Mure/redesigned-personal-portfolio/issues)
+
+## 🎓 About This Portfolio
+
+This portfolio is part of my Computer Science diploma journey at Kiambu National Polytechnic. It's a work in progress and will continue to grow as I learn and develop new skills.
+
+Thank you for visiting and for any feedback you provide! 🙏
+
+---
+
+*Victor Muregi - Computer Science Student*
